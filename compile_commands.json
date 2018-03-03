@@ -1,0 +1,1007 @@
+[
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dasiopal_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/asiopal.dir/cpp/libs/src/asiopal/IOpenDelayStrategy.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/asiopal/IOpenDelayStrategy.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/asiopal/IOpenDelayStrategy.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dasiopal_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/asiopal.dir/cpp/libs/src/asiopal/TimeConversions.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/asiopal/TimeConversions.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/asiopal/TimeConversions.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dasiopal_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/asiopal.dir/cpp/libs/src/asiopal/SerialChannel.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/asiopal/SerialChannel.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/asiopal/SerialChannel.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dasiopal_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/asiopal.dir/cpp/libs/src/asiopal/TCPServer.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/asiopal/TCPServer.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/asiopal/TCPServer.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dasiopal_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/asiopal.dir/cpp/libs/src/asiopal/UTCTimeSource.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/asiopal/UTCTimeSource.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/asiopal/UTCTimeSource.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dasiopal_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/asiopal.dir/cpp/libs/src/asiopal/ThreadPool.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/asiopal/ThreadPool.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/asiopal/ThreadPool.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dasiopal_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/asiopal.dir/cpp/libs/src/asiopal/ResourceManager.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/asiopal/ResourceManager.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/asiopal/ResourceManager.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dasiopal_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/asiopal.dir/cpp/libs/src/asiopal/Timer.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/asiopal/Timer.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/asiopal/Timer.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dasiopal_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/asiopal.dir/cpp/libs/src/asiopal/TCPClient.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/asiopal/TCPClient.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/asiopal/TCPClient.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dasiopal_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/asiopal.dir/cpp/libs/src/asiopal/ChannelRetry.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/asiopal/ChannelRetry.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/asiopal/ChannelRetry.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dasiopal_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/asiopal.dir/cpp/libs/src/asiopal/ASIOSerialHelpers.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/asiopal/ASIOSerialHelpers.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/asiopal/ASIOSerialHelpers.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dasiopal_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/asiopal.dir/cpp/libs/src/asiopal/SocketChannel.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/asiopal/SocketChannel.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/asiopal/SocketChannel.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dasiopal_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/asiopal.dir/cpp/libs/src/asiopal/Executor.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/asiopal/Executor.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/asiopal/Executor.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g   -o CMakeFiles/master-demo.dir/cpp/examples/master/main.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/examples/master/main.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/examples/master/main.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g   -o CMakeFiles/master-gprs-demo.dir/cpp/examples/master-gprs/main.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/examples/master-gprs/main.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/examples/master-gprs/main.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dasiodnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/asiodnp3.dir/cpp/libs/src/asiodnp3/OutstationStack.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/asiodnp3/OutstationStack.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/asiodnp3/OutstationStack.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dasiodnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/asiodnp3.dir/cpp/libs/src/asiodnp3/DNP3Channel.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/asiodnp3/DNP3Channel.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/asiodnp3/DNP3Channel.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dasiodnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/asiodnp3.dir/cpp/libs/src/asiodnp3/DefaultListenCallbacks.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/asiodnp3/DefaultListenCallbacks.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/asiodnp3/DefaultListenCallbacks.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dasiodnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/asiodnp3.dir/cpp/libs/src/asiodnp3/TCPClientIOHandler.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/asiodnp3/TCPClientIOHandler.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/asiodnp3/TCPClientIOHandler.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dasiodnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/asiodnp3.dir/cpp/libs/src/asiodnp3/ErrorCodes.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/asiodnp3/ErrorCodes.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/asiodnp3/ErrorCodes.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dasiodnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/asiodnp3.dir/cpp/libs/src/asiodnp3/DNP3Manager.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/asiodnp3/DNP3Manager.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/asiodnp3/DNP3Manager.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dasiodnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/asiodnp3.dir/cpp/libs/src/asiodnp3/MasterTCPServer.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/asiodnp3/MasterTCPServer.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/asiodnp3/MasterTCPServer.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dasiodnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/asiodnp3.dir/cpp/libs/src/asiodnp3/MasterScan.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/asiodnp3/MasterScan.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/asiodnp3/MasterScan.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dasiodnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/asiodnp3.dir/cpp/libs/src/asiodnp3/PrintingCommandCallback.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/asiodnp3/PrintingCommandCallback.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/asiodnp3/PrintingCommandCallback.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dasiodnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/asiodnp3.dir/cpp/libs/src/asiodnp3/LinkSession.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/asiodnp3/LinkSession.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/asiodnp3/LinkSession.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dasiodnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/asiodnp3.dir/cpp/libs/src/asiodnp3/MasterStack.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/asiodnp3/MasterStack.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/asiodnp3/MasterStack.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dasiodnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/asiodnp3.dir/cpp/libs/src/asiodnp3/DefaultMasterApplication.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/asiodnp3/DefaultMasterApplication.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/asiodnp3/DefaultMasterApplication.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dasiodnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/asiodnp3.dir/cpp/libs/src/asiodnp3/ConsoleLogger.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/asiodnp3/ConsoleLogger.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/asiodnp3/ConsoleLogger.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dasiodnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/asiodnp3.dir/cpp/libs/src/asiodnp3/SerialIOHandler.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/asiodnp3/SerialIOHandler.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/asiodnp3/SerialIOHandler.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dasiodnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/asiodnp3.dir/cpp/libs/src/asiodnp3/UpdateBuilder.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/asiodnp3/UpdateBuilder.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/asiodnp3/UpdateBuilder.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dasiodnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/asiodnp3.dir/cpp/libs/src/asiodnp3/TCPServerIOHandler.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/asiodnp3/TCPServerIOHandler.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/asiodnp3/TCPServerIOHandler.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dasiodnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/asiodnp3.dir/cpp/libs/src/asiodnp3/PrintingSOEHandler.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/asiodnp3/PrintingSOEHandler.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/asiodnp3/PrintingSOEHandler.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dasiodnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/asiodnp3.dir/cpp/libs/src/asiodnp3/MasterSessionStack.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/asiodnp3/MasterSessionStack.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/asiodnp3/MasterSessionStack.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dasiodnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/asiodnp3.dir/cpp/libs/src/asiodnp3/Conversions.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/asiodnp3/Conversions.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/asiodnp3/Conversions.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dasiodnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/asiodnp3.dir/cpp/libs/src/asiodnp3/DNP3ManagerImpl.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/asiodnp3/DNP3ManagerImpl.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/asiodnp3/DNP3ManagerImpl.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dasiodnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/asiodnp3.dir/cpp/libs/src/asiodnp3/IOHandler.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/asiodnp3/IOHandler.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/asiodnp3/IOHandler.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g   -o CMakeFiles/outstation-demo.dir/cpp/examples/outstation/main.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/examples/outstation/main.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/examples/outstation/main.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/transport/TransportRx.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/transport/TransportRx.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/transport/TransportRx.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/transport/TransportTx.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/transport/TransportTx.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/transport/TransportTx.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/transport/TransportLayer.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/transport/TransportLayer.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/transport/TransportLayer.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/transport/TransportStack.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/transport/TransportStack.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/transport/TransportStack.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/objects/Group12.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group12.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group12.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/objects/Group52.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group52.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group52.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/objects/Group13.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group13.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group13.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/objects/Group20.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group20.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group20.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/objects/Group2.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group2.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group2.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/objects/Group50.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group50.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group50.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/objects/Group43.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group43.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group43.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/objects/Group3.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group3.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group3.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/objects/Group1.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group1.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group1.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/objects/Group122.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group122.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group122.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/objects/Group21.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group21.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group21.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/objects/Group10.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group10.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group10.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/objects/Group11.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group11.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group11.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/objects/Group4.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group4.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group4.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/objects/Group121.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group121.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group121.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/objects/Group40.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group40.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group40.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/objects/Group42.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group42.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group42.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/objects/Group30.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group30.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group30.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/objects/Group23.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group23.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group23.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/objects/Group51.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group51.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group51.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/objects/Group22.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group22.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group22.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/objects/Group41.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group41.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group41.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/objects/Group120.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group120.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group120.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/objects/Group32.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group32.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/objects/Group32.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/gen/Parity.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/Parity.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/Parity.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/gen/TaskCompletion.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/TaskCompletion.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/TaskCompletion.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/gen/KeyChangeMethod.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/KeyChangeMethod.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/KeyChangeMethod.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/gen/ChallengeReason.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/ChallengeReason.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/ChallengeReason.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/gen/CertificateType.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/CertificateType.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/CertificateType.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/gen/MasterTaskType.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/MasterTaskType.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/MasterTaskType.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/gen/IntervalUnits.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/IntervalUnits.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/IntervalUnits.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/gen/LinkFunction.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/LinkFunction.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/LinkFunction.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/gen/FlagsType.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/FlagsType.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/FlagsType.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/gen/FunctionCode.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/FunctionCode.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/FunctionCode.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/gen/ControlCode.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/ControlCode.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/ControlCode.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/gen/KeyStatus.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/KeyStatus.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/KeyStatus.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/gen/KeyWrapAlgorithm.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/KeyWrapAlgorithm.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/KeyWrapAlgorithm.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/gen/QualifierCode.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/QualifierCode.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/QualifierCode.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/gen/FlowControl.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/FlowControl.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/FlowControl.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/gen/Attributes.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/Attributes.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/Attributes.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/gen/HMACType.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/HMACType.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/HMACType.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/gen/GroupVariation.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/GroupVariation.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/GroupVariation.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/gen/UserOperation.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/UserOperation.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/UserOperation.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/gen/CommandPointState.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/CommandPointState.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/CommandPointState.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/gen/ChannelState.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/ChannelState.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/ChannelState.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/gen/DoubleBit.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/DoubleBit.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/DoubleBit.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/gen/CommandStatus.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/CommandStatus.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/CommandStatus.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/gen/StopBits.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/StopBits.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/StopBits.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/gen/UserRole.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/UserRole.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/UserRole.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/gen/LinkStatus.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/LinkStatus.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/LinkStatus.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/gen/AuthErrorCode.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/AuthErrorCode.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/gen/AuthErrorCode.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/master/TaskBehavior.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/TaskBehavior.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/TaskBehavior.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/master/EventScanTask.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/EventScanTask.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/EventScanTask.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/master/AssignClassTask.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/AssignClassTask.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/AssignClassTask.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/master/DisableUnsolicitedTask.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/DisableUnsolicitedTask.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/DisableUnsolicitedTask.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/master/CommandTask.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/CommandTask.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/CommandTask.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/master/LANTimeSyncTask.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/LANTimeSyncTask.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/LANTimeSyncTask.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/master/SerialTimeSyncTask.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/SerialTimeSyncTask.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/SerialTimeSyncTask.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/master/UserPollTask.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/UserPollTask.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/UserPollTask.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/master/RestartOperationTask.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/RestartOperationTask.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/RestartOperationTask.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/master/StartupIntegrityPoll.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/StartupIntegrityPoll.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/StartupIntegrityPoll.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/master/CommandSetOps.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/CommandSetOps.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/CommandSetOps.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/master/EmptyResponseTask.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/EmptyResponseTask.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/EmptyResponseTask.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/master/IMasterTask.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/IMasterTask.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/IMasterTask.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/master/PollTaskBase.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/PollTaskBase.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/PollTaskBase.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/master/MasterContext.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/MasterContext.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/MasterContext.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/master/EnableUnsolicitedTask.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/EnableUnsolicitedTask.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/EnableUnsolicitedTask.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/master/MasterSchedulerBackend.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/MasterSchedulerBackend.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/MasterSchedulerBackend.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/master/CommandTaskResult.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/CommandTaskResult.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/CommandTaskResult.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/master/ClearRestartTask.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/ClearRestartTask.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/ClearRestartTask.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/master/MasterTasks.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/MasterTasks.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/MasterTasks.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/master/HeaderTypes.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/HeaderTypes.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/HeaderTypes.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/master/TaskContext.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/TaskContext.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/TaskContext.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/master/MeasurementHandler.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/MeasurementHandler.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/MeasurementHandler.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/master/CommandSet.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/CommandSet.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/master/CommandSet.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/app/ControlRelayOutputBlock.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/ControlRelayOutputBlock.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/ControlRelayOutputBlock.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/app/APDUResponse.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/APDUResponse.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/APDUResponse.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/app/APDUBuilders.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/APDUBuilders.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/APDUBuilders.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/app/APDULogging.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/APDULogging.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/APDULogging.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/app/AnalogOutput.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/AnalogOutput.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/AnalogOutput.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/app/BinaryCommandEvent.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/BinaryCommandEvent.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/BinaryCommandEvent.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/app/Functions.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/Functions.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/Functions.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/app/APDUHeader.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/APDUHeader.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/APDUHeader.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/app/EventTriggers.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/EventTriggers.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/EventTriggers.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/app/SecurityStat.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/SecurityStat.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/SecurityStat.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/app/AnalogCommandEvent.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/AnalogCommandEvent.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/AnalogCommandEvent.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/app/ClassField.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/ClassField.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/ClassField.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/app/parsing/IAPDUHandler.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/parsing/IAPDUHandler.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/parsing/IAPDUHandler.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/app/parsing/CountIndexParser.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/parsing/CountIndexParser.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/parsing/CountIndexParser.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/app/parsing/NumParser.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/parsing/NumParser.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/parsing/NumParser.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/app/parsing/APDUHeaderParser.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/parsing/APDUHeaderParser.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/parsing/APDUHeaderParser.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/app/parsing/BitReader.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/parsing/BitReader.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/parsing/BitReader.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/app/parsing/CountParser.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/parsing/CountParser.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/parsing/CountParser.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/app/parsing/ObjectHeaderParser.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/parsing/ObjectHeaderParser.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/parsing/ObjectHeaderParser.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/app/parsing/FreeFormatParser.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/parsing/FreeFormatParser.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/parsing/FreeFormatParser.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/app/parsing/APDUParser.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/parsing/APDUParser.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/parsing/APDUParser.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/app/parsing/RangeParser.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/parsing/RangeParser.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/parsing/RangeParser.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/app/AppControlField.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/AppControlField.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/AppControlField.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/app/IINField.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/IINField.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/IINField.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/app/MeasurementTypes.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/MeasurementTypes.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/MeasurementTypes.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/app/OctetData.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/OctetData.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/OctetData.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/app/APDURequest.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/APDURequest.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/APDURequest.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/app/HeaderWriter.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/HeaderWriter.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/HeaderWriter.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/app/APDUWrapper.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/APDUWrapper.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/APDUWrapper.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/app/QualityFlags.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/QualityFlags.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/QualityFlags.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/app/GroupVariationRecord.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/GroupVariationRecord.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/app/GroupVariationRecord.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/LogLevels.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/LogLevels.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/LogLevels.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/outstation/AssignClassHandler.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/AssignClassHandler.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/AssignClassHandler.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/outstation/IOutstationApplication.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/IOutstationApplication.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/IOutstationApplication.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/outstation/IINHelpers.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/IINHelpers.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/IINHelpers.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/outstation/ApplicationIIN.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/ApplicationIIN.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/ApplicationIIN.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/outstation/ResponseContext.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/ResponseContext.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/ResponseContext.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/outstation/StaticLoadFunctions.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/StaticLoadFunctions.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/StaticLoadFunctions.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/outstation/EventCount.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/EventCount.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/EventCount.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/outstation/RequestHistory.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/RequestHistory.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/RequestHistory.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/outstation/ReadHandler.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/ReadHandler.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/ReadHandler.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/outstation/WriteHandler.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/WriteHandler.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/WriteHandler.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/outstation/DatabaseBuffers.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/DatabaseBuffers.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/DatabaseBuffers.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/outstation/DatabaseConfigView.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/DatabaseConfigView.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/DatabaseConfigView.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/outstation/ClassBasedRequestHandler.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/ClassBasedRequestHandler.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/ClassBasedRequestHandler.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/outstation/Database.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/Database.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/Database.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/outstation/StaticBuffers.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/StaticBuffers.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/StaticBuffers.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/outstation/SOERecord.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/SOERecord.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/SOERecord.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/outstation/EventWriter.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/EventWriter.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/EventWriter.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/outstation/CommandResponseHandler.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/CommandResponseHandler.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/CommandResponseHandler.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/outstation/EventBuffer.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/EventBuffer.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/EventBuffer.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/outstation/CommandActionAdapter.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/CommandActionAdapter.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/CommandActionAdapter.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/outstation/SimpleCommandHandler.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/SimpleCommandHandler.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/SimpleCommandHandler.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/outstation/OutstationContext.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/OutstationContext.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/OutstationContext.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/outstation/EventBufferConfig.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/EventBufferConfig.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/EventBufferConfig.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/outstation/SelectedRanges.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/SelectedRanges.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/SelectedRanges.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/outstation/OutstationStates.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/OutstationStates.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/OutstationStates.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/outstation/DeferredRequest.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/DeferredRequest.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/outstation/DeferredRequest.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/link/LinkHeaderFields.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/link/LinkHeaderFields.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/link/LinkHeaderFields.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/link/LinkFrame.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/link/LinkFrame.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/link/LinkFrame.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/link/PriLinkLayerStates.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/link/PriLinkLayerStates.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/link/PriLinkLayerStates.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/link/LinkLayer.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/link/LinkLayer.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/link/LinkLayer.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/link/LinkHeader.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/link/LinkHeader.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/link/LinkHeader.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/link/ShiftableBuffer.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/link/ShiftableBuffer.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/link/ShiftableBuffer.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/link/SecLinkLayerStates.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/link/SecLinkLayerStates.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/link/SecLinkLayerStates.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/link/CRC.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/link/CRC.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/link/CRC.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/link/LinkContext.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/link/LinkContext.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/link/LinkContext.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopendnp3_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/opendnp3.dir/cpp/libs/src/opendnp3/link/LinkLayerParser.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/link/LinkLayerParser.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/opendnp3/link/LinkLayerParser.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopenpal_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/openpal.dir/cpp/libs/src/openpal/container/RSlice.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/openpal/container/RSlice.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/openpal/container/RSlice.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopenpal_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/openpal.dir/cpp/libs/src/openpal/container/Buffer.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/openpal/container/Buffer.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/openpal/container/Buffer.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopenpal_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/openpal.dir/cpp/libs/src/openpal/container/WSlice.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/openpal/container/WSlice.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/openpal/container/WSlice.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopenpal_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/openpal.dir/cpp/libs/src/openpal/util/ToHex.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/openpal/util/ToHex.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/openpal/util/ToHex.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopenpal_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/openpal.dir/cpp/libs/src/openpal/util/Limits.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/openpal/util/Limits.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/openpal/util/Limits.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopenpal_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/openpal.dir/cpp/libs/src/openpal/serialization/Format.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/openpal/serialization/Format.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/openpal/serialization/Format.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopenpal_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/openpal.dir/cpp/libs/src/openpal/serialization/Parse.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/openpal/serialization/Parse.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/openpal/serialization/Parse.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopenpal_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/openpal.dir/cpp/libs/src/openpal/serialization/DoubleFloat.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/openpal/serialization/DoubleFloat.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/openpal/serialization/DoubleFloat.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopenpal_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/openpal.dir/cpp/libs/src/openpal/serialization/ByteSerialization.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/openpal/serialization/ByteSerialization.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/openpal/serialization/ByteSerialization.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopenpal_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/openpal.dir/cpp/libs/src/openpal/serialization/FloatByteOrder.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/openpal/serialization/FloatByteOrder.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/openpal/serialization/FloatByteOrder.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopenpal_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/openpal.dir/cpp/libs/src/openpal/serialization/UInt48LE.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/openpal/serialization/UInt48LE.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/openpal/serialization/UInt48LE.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopenpal_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/openpal.dir/cpp/libs/src/openpal/serialization/SingleFloat.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/openpal/serialization/SingleFloat.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/openpal/serialization/SingleFloat.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopenpal_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/openpal.dir/cpp/libs/src/openpal/executor/MonotonicTimestamp.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/openpal/executor/MonotonicTimestamp.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/openpal/executor/MonotonicTimestamp.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopenpal_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/openpal.dir/cpp/libs/src/openpal/executor/TimerRef.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/openpal/executor/TimerRef.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/openpal/executor/TimerRef.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopenpal_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/openpal.dir/cpp/libs/src/openpal/executor/TimeDuration.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/openpal/executor/TimeDuration.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/openpal/executor/TimeDuration.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopenpal_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/openpal.dir/cpp/libs/src/openpal/logging/Logger.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/openpal/logging/Logger.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/openpal/logging/Logger.cpp"
+},
+{
+  "directory": "/home/mark/Development/dnp3/dnp3",
+  "command": "/usr/bin/c++   -DASIO_STANDALONE -Dopenpal_EXPORTS -I/home/mark/Development/dnp3/dnp3/deps/asio/asio/include -I/home/mark/Development/dnp3/dnp3/./cpp/libs/src -I/home/mark/Development/dnp3/dnp3/./cpp/libs/include -I/home/mark/Development/dnp3/dnp3/./cpp/tests/libs/src   -Wall -Wno-multichar -Wunused-variable -Wno-unused-parameter -Wunused-function -Wunused -Wno-system-headers -Wwrite-strings -save-temps -fPIC -Wno-deprecated -Wno-parentheses -std=c++14 -O0 -g -fPIC   -o CMakeFiles/openpal.dir/cpp/libs/src/openpal/logging/StringFormatting.cpp.o -c /home/mark/Development/dnp3/dnp3/cpp/libs/src/openpal/logging/StringFormatting.cpp",
+  "file": "/home/mark/Development/dnp3/dnp3/cpp/libs/src/openpal/logging/StringFormatting.cpp"
+}
+]

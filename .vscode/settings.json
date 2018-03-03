@@ -1,0 +1,8 @@
+{
+    "cmake.buildDirectory": "${workspaceRoot}/../dnp3",
+    "cmake.configureSettings": {
+        "DNP3_DEMO": "ON",
+        "CMAKE_BUILD_TYPE": "Debug",
+        "CMAKE_INSTALL_PREFIX": "/usr" 
+    }
+}
